@@ -19,7 +19,7 @@
 
 | # | Проект | Область | Инструменты | Ключевой результат |
 |---|---|---|---|---|
-| 1 | [Анализ маркетинговых каналов]([01_marketing_analytics/](https://github.com/GusevaAnna/data-analytics-portfolio/tree/main/1)) | Маркетинг | Python, SQL | ROMI, CPA, LTV/CAC. +4–7 млн ₽ потенциала |
+| 1 | [Анализ маркетинговых каналов](https://github.com/GusevaAnna/data-analytics-portfolio/tree/main/1) | Маркетинг | Python, SQL | ROMI, CPA, LTV/CAC. +4–7 млн ₽ потенциала |
 | 2 | [ABC/XYZ ассортимент](02_assortment_abc_xyz/) | Продукт | Python | Матрица 3×3, зоны роста и вывода SKU |
 | 3 | [RFM + матрица переходов](03_customer_rfm/) | Клиенты | Python | 40% базы — At Risk, +3–4 млн ₽ реактивации |
 | 4 | [Прогноз выручки](04_sales_forecast/) | Прогнозирование | Python, Prophet | Прогноз на 10 недель + сезонность |
